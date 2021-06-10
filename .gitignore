@@ -1,3 +1,10 @@
 node_modules/
 package-lock.json
 .DS_store
+.autod.conf.js
+.eslintignore
+.eslintrc
+.github/
+.gitignore
+.travis.yml
+appveyor.yml

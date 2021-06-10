@@ -2,4 +2,5 @@
 
 Collection of web projects.
 
-* **koa**: koa project.
+* **egg**: egg project. Homepage https://eggjs.org/
+* **koa**: koa project. Homepage https://koajs.com/
